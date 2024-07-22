@@ -12,7 +12,7 @@ title                    : "Jens Helin"
 title_separator          : "-"
 name                     : &name "Jens Helin"
 description              : &description "CS student @ Uni of Helsinki"
-url                      : https:/jensjvh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://jensjvh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jensjvh/jensjvh.github.io"
 
