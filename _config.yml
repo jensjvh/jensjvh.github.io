@@ -22,11 +22,11 @@ repository               : "jensjvh/jensjvh.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Jens Helin"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "CS student @ Uni of Helsinki"
+  location         : "Finland"
+  employer         : #
   uri              : # URL
   email            : "none@example.org" 
 
