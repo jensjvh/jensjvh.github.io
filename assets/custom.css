@@ -1,0 +1,28 @@
+body {
+  background-color: #cec1c1;
+  font-family: monospace, sans-serif;
+  color: rgb(49, 49, 49);
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  width: 50vw;
+  margin: 20px auto;
+  background-color: white;
+  padding: 20px;
+}
+
+header {
+  text-align: right;
+}
+
+h1 {
+  color: rgb(49, 49, 49);
+  text-align: left;
+}
+
+a {
+  color: rgb(80, 80, 177);
+  text-decoration: underline;
+}
